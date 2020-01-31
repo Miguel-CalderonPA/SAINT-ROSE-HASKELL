@@ -1,2 +1,2 @@
 # SAINT-ROSE-HASKELL
-Some Haskell examples
+Some Haskell Examples.
